@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^index.html$ https://scratch.mit.edu/projects/1050396413/embed [L,R=301]
